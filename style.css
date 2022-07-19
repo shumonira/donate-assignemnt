@@ -34,3 +34,45 @@ body{
   font-weight: 600;
   border-radius: 10px;
 }
+.container{
+  max-width: 500px;
+  margin: auto;
+  text-align: center;
+}
+
+.donate-today{
+  margin-top:60px;
+}
+
+.donate-today p{
+  margin-top: 20px;
+}
+.donate-amount{
+  display: flex;
+  margin-top: 30px;
+  margin-bottom: 40px;
+}
+.other-amount{
+  border: none;
+}
+
+.light-grey{
+  background-color: #e1e1e45d;
+  padding: 30px;
+  margin-left: 15px;
+  border-radius: 5px;
+  font-weight: 800;
+}
+.red{
+  border:2px solid #f51616;
+  color:#f51616;
+  font-weight: 800;
+  background-color: #e2868659;
+  padding: 30px;
+  margin-left: 15px;
+  border-radius: 5px;
+}
+#donate-now{
+  margin-top: 30px;
+  margin-bottom: 30px;
+}
